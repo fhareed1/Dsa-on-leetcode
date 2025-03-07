@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/fhareed1/Dsa-on-leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/fhareed1/Dsa-on-leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/fhareed1/Dsa-on-leetcode/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/fhareed1/Dsa-on-leetcode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/fhareed1/Dsa-on-leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/fhareed1/Dsa-on-leetcode/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/fhareed1/Dsa-on-leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
